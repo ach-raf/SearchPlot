@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SearchPlot</string>
+    <string name="plot_poster">Plot Poster</string>
+    <string name="imdb">IMDB</string>
+    <string name="search">Search</string>
+    <string name="movie_or_series">movie or series</string>
+    <string name="year">Year</string>
+</resources>
